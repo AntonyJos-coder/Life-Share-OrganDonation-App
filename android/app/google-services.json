@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1079216154076",
+    "firebase_url": "https://org-dont-app-default-rtdb.firebaseio.com",
+    "project_id": "org-dont-app",
+    "storage_bucket": "org-dont-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079216154076:android:9fd71b7d8d07012be05b19",
+        "android_client_info": {
+          "package_name": "com.example.innii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrJfQ8DsVz4I8bLv-r5m07Q-9tCsgHO3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
