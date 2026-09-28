@@ -56,42 +56,19 @@ Firebase Realtime Database
 Firebase Analytics
 Firebase Crashlytics
 🛠️ Technology Stack
-Category	Technology
-Programming Language	Dart
-Framework	Flutter
-Backend	Firebase
-Database	Cloud Firestore, Firebase Realtime Database
-Authentication	Firebase Authentication
-State Management	Provider
-AI Integration	External AI API
-API Communication	HTTP
-Analytics	Firebase Analytics
-Crash Reporting	Firebase Crashlytics
-UI	Material Design, Google Fonts, Flutter SVG
-🏗️ Application Flow
-                         LIFE SHARE
-                              │
-                  ┌───────────┴───────────┐
-                  │                       │
-               DONOR                  RECIPIENT
-                  │                       │
-          Registration Form        Registration Form
-                  │                       │
-                  └───────────┬───────────┘
-                              │
-                              ▼
-                         Firebase
-                              │
-                              ▼
-                     Matching System
-                              │
-                   Organ + Blood Group
-                              │
-                              ▼
-                     Potential Match
-                              │
-                              ▼
-                       Admin Review
+Category	            Technology
+Programming Language:	Dart
+Framework           :	Flutter
+Backend	            : Firebase
+Database	          : Cloud Firestore, Firebase Realtime Database
+Authentication	    : Firebase Authentication
+State Management	  : Provider
+AI Integration	    : External AI API
+API Communication	  : HTTP
+Analytics	          : Firebase Analytics
+Crash Reporting	    : Firebase Crashlytics
+UI	                : Material Design, Google Fonts, Flutter SVG
+
 📱 Main Modules
 Authentication
 User Registration
@@ -165,7 +142,6 @@ It does not determine medical suitability or transplant compatibility. Actual or
 👨‍💻 Developer
 
 Antony Jos
-
 Diploma in Computer Engineering
 Carmel Polytechnic College, Alappuzha
 
